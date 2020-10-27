@@ -1,6 +1,6 @@
 # vuehr
 
-> A Vue.js project
+> A Vue.js project test
 
 ## Build Setup
 
